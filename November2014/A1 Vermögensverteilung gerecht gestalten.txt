@@ -1,0 +1,23 @@
+Antragsteller: Andreas Resch
+Gliederung: KV Bremen-Ost
+Unterstützer:
+Beschlussdatum: nicht zutreffend
+Status: 0.1 (Entwurf)
+---
+
+= THEMA in einem Satz =
+Herstellung einer ausgeglichenen Verteilungsfunktion der Vermögen in Deutschland.
+
+= THEMA in mehreren Sätzen =
+
+= LANGFASSUNG =
+Die Vermögensverteilung in Deutschland ist durch eine Exponentialfunktion darstellbar.
+Die Datensätze dazu sind öffentlich einsehbar, z.B. Wikipedia: Vermögensverteilung in Deutschland.
+Die Exponentialfunktion kann im Web frei mit der Suchmaschine "Wolfram alpha" an die Daten
+angepasst werden (2007: exponential fit -1.6 0 0 0.4 1.2 2.8 6 11.1 19 61.1). Der Großteil der
+privaten Vermögen (>60%) liegt bei den reichsten 10%, wenn man noch genauer schaut, besitzen
+die reichsten 0.1% immer noch über 20% des Vermögens. In absoluten Zahlen (FORBES und EZB Working
+paper "How fat is the top tail of the wealth distribution" Tabelle 4): 52 Haushalte besitzen 2.4%
+des Vermögens. Das sind EUR 192.000.000.000, oder 3 Milliarden pro Haushalt. 
+
+ 
