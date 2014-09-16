@@ -9,6 +9,12 @@ Status: 0.1 (Entwurf)
 Herstellung einer ausgeglichenen Verteilungsfunktion der Vermögen in Deutschland.
 
 = THEMA in mehreren Sätzen =
+Die Vermögen in Deutschland sind ungleich verteilt. Sortiert man die Bevölkerung
+nach Geld- und Grundvermögen, besitzen die reichsten 0.1% über 22% der Vermögen.
+Dazu steht im Gegensatz das untere Zehntel, das gar kein Vermögen, sondern nur
+Schulden besitzt. Politisches Ziel muss es sein, die Vermögensverteilung zu
+diskutieren und Ober- und Untergrenzen für eine Zielverteilung vorzuschlagen.
+
 
 = LANGFASSUNG =
 Die Vermögensverteilung in Deutschland ist durch eine Exponentialfunktion darstellbar.
@@ -20,4 +26,17 @@ die reichsten 0.1% immer noch über 20% des Vermögens. In absoluten Zahlen (FORBE
 paper "How fat is the top tail of the wealth distribution" Tabelle 4): 52 Haushalte besitzen 2.4%
 des Vermögens. Das sind EUR 192.000.000.000, oder 3 Milliarden pro Haushalt. 
 
- 
+Schon in der Vergangenheit war Vermögensorientierte Politik machbar und anerkannt. 
+Im Zuge der Finanzkrise haben die GRÜNEN ebenfalls eine einmalige Vermögensabgabe vorgeschlagen,
+um die Kosten der Bankenrettung teilweise zu refinanzieren. Weitere Instrumente sind die
+Erb- und Schenkungssteuer. Die Ausgestaltung der Instrumente ist nicht Inhalt des Antrags.
+
+Der Antrag soll feststellen:
+- dass die aktuelle Vermögensverteilung und -Entwicklung nicht sozial
+verträglich und nachhaltig ist. 
+- dass Politik gestalten heißt eine wünschenswerte Verteilung vorzustellen und die damit 
+verbundenen Fragen (Deckelung der Vermögen?) gesamtgesellschaftlich anzusprechen.
+
+
+= Hinweise =
+http://de.m.wikipedia.org/wiki/Verm%C3%B6gensverteilung_in_Deutschland
